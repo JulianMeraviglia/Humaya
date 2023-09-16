@@ -1,0 +1,46 @@
+/* .banner {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  position: relative;
+}
+.banner-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+} */
+.pantone1 {
+  background-color: #866762;
+}
+.pantone2 {
+  background-color: #f0e8e4;
+}
+.pantone3 {
+  background-color: #cd8498;
+}
+.bgcontacto {
+  background-color: #ffff;
+}
+.inputcontacto {
+  border: none;
+}
+.color {
+  color: #f0e8e4;
+}
+.color2 {
+  color: #866762;
+}
+.color3 {
+  color: #ffff;
+}
+.borderlink {
+  border: solid #f0e8e4;
+}
+.borderlink2 {
+  border: solid #866762;
+}
+.borderproduct {
+  border-top: solid #f0e8e4;
+  border-bottom: solid #f0e8e4;
+  border-width: thin;
+}
